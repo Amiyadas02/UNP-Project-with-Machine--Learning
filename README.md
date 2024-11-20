@@ -35,3 +35,7 @@ Algorithms Comparison
 
  
  Google Colab Notebook Link -https://colab.research.google.com/drive/1lE5YNBtXNJrSyaOGv70r9Nq0_B0pk55d?usp=sharing
+
+
+
+Project Presentation Link:-https://docs.google.com/presentation/d/1h3JArumeOpRq5DCuli5Noo75spPZOXqs/edit?usp=sharing&ouid=109382869113839131420&rtpof=true&sd=true
