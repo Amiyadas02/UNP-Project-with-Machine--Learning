@@ -32,3 +32,4 @@ Preparing Model for Deployment
 Algorithms Comparison
 
  Summary
+ Google Colab Notebook Link -https://colab.research.google.com/drive/1lE5YNBtXNJrSyaOGv70r9Nq0_B0pk55d?usp=sharing
